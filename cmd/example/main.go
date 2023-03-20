@@ -5,6 +5,7 @@ import (
 	"fmt"
 	"io"
 	"log"
+	"os"
 	"strings"
 
 	lab2 "github.com/GddgdgMen/KPI_lab2"
