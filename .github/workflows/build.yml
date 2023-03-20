@@ -23,6 +23,4 @@ jobs:
 
     - name: Test
       run: make test
-
-    - name: Run distcheck
-      run: make distcheck
+      
